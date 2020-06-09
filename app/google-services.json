@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680250845070",
+    "firebase_url": "https://rmsg-e23ee.firebaseio.com",
+    "project_id": "rmsg-e23ee",
+    "storage_bucket": "rmsg-e23ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680250845070:android:29deea64b94140be7126df",
+        "android_client_info": {
+          "package_name": "com.example.rmsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680250845070-2kbjsib7a2k7p0ji6d7fms4a749or3ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rmsg",
+            "certificate_hash": "413a6117cf65030cb06d6c4a09820f9ebc10eb17"
+          }
+        },
+        {
+          "client_id": "680250845070-edel4jtrhti9l46hf4i70en0vh1ukr8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRrOma-hpKuvJiMc058xUbLB4asCWofc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680250845070-edel4jtrhti9l46hf4i70en0vh1ukr8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

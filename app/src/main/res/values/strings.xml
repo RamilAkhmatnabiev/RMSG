@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RMSG</string>
+    <string name="send_button_name">отправить</string>
+    <string name="edit_text_hint">Введите сообщение...</string>
+</resources>
